@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Dragon Addon - Resource Pack",
+    "name": "Dragon Resource",
+    "uuid": "9g5g9g9g-5g9g-5g9g-5g9g-5g9g9g9g9g9g",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Dragon Textures and Models",
+      "type": "resources",
+      "uuid": "5j4j5j5j-4j5j-4j5j-4j5j-4j5j5j5j5j5j",
+      "version": [1, 0, 0]
+    }
+  ]
+}
