@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Dragon Addon - 3 tipos de dragões voadores com drops de escamas e crafting de equipamentos",
+    "name": "§6Dragon Addon",
+    "uuid": "8f4f8f8f-4f8f-4f8f-4f8f-4f8f8f8f8f8f",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Dragon Addon Resources",
+      "type": "resources",
+      "uuid": "9g5g9g9g-5g9g-5g9g-5g9g-5g9g9g9g9g9g",
+      "version": [1, 0, 0]
+    },
+    {
+      "description": "Dragon Addon Behavior",
+      "type": "data",
+      "uuid": "7h6h7h7h-6h7h-6h7h-6h7h-6h7h7h7h7h7h",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "minecraft",
+      "version": [0, 0, 0]
+    }
+  ]
+}
